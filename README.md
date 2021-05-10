@@ -9,57 +9,83 @@ I'm currently a **Software Development Team Lead** at
 
 Here are some languages and libraries that I like to work with:
 
-<div style="display:grid;grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-  gap: 0.7em 0;width:60%;margin-left:4em;">
-    <span style="display:flex;align-items:center;">
-        <img src="assets/languages/typescript-icon.svg" />
-        <span style="white-space: pre"> </span>
-        <strong>TypeScript</strong>
-    </span>
-    <span style="display:flex;align-items:center;">
-        <img src="assets/languages/react-icon.svg" />
-        <span style="white-space: pre"> </span>
-        <strong>React</strong>
-    </span>
-    <span style="display:flex;align-items:center;">
-        <img src="assets/languages/jest-icon.svg" />
-        <span style="white-space: pre"> </span>
-        <strong>Jest</strong>
-    </span>
-    <span style="display:flex;align-items:center;">
-        <img
-        height="18"
-        width="18"
-        alt="octopus"
-        src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png"
-        />
-        <span style="white-space: pre"> </span>
-        <strong>Testing Library</strong>
-    </span>
-    <span style="display:flex;align-items:center;">
-        <img src="assets/languages/graphql-icon.svg" />
-        <span style="white-space: pre"> </span>
-        <strong>GraphQL</strong>
-    </span>
+<table style="width:60%;">
+<tr>
+    <td>
+        <span style="display:flex;align-items:center;">
+            <img src="assets/languages/typescript-icon.svg" />
+            <span style="white-space: pre"> </span>
+            <strong>TypeScript</strong>
+        </span>
+    </td>
+    <td>
+        <span style="display:flex;align-items:center;">
+            <img src="assets/languages/react-icon.svg" />
+            <span style="white-space: pre"> </span>
+            <strong>React</strong>
+        </span>
+    </td>
+</tr>
+<tr>
+    <td>
+        <span style="display:flex;align-items:center;">
+            <img src="assets/languages/jest-icon.svg" />
+            <span style="white-space: pre"> </span>
+            <strong>Jest</strong>
+        </span>
+    </td>
+    <td>
+        <span style="display:flex;align-items:center;">
+            <img
+            height="18"
+            width="18"
+            alt="octopus"
+            src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png"
+            />
+            <span style="white-space: pre"> </span>
+            <strong>Testing Library</strong>
+        </span>
+    </td>
+</tr>
+<tr>
+    <td>
+        <span style="display:flex;align-items:center;">
+            <img src="assets/languages/graphql-icon.svg" />
+            <span style="white-space: pre"> </span>
+            <strong>GraphQL</strong>
+        </span>
+    </td>
+    <td>
         <span>
-        <strong>Express</strong>
-    </span>
-    <span style="display:flex;align-items:center;">
-        <img src="assets/languages/node-icon.svg" />
-        <span style="white-space: pre"> </span>
-        <strong>Node</strong>
-    </span>
-    <span style="display:flex;align-items:center;">
-        <img src="assets/languages/mongodb-icon.svg" />
-        <strong>MongoDB</strong>
-    </span>
-    <span style="display:flex;align-items:center;">
-        <img src="assets/languages/postgresql-icon.svg" />
-        <span style="white-space: pre"> </span>
-        <strong>PostgreSQL</strong>
-    </span>
-</div>
+            <strong>Express</strong>
+        </span>
+    </td>
+</tr>
+<tr>
+    <td>
+        <span style="display:flex;align-items:center;">
+            <img src="assets/languages/node-icon.svg" />
+            <span style="white-space: pre"> </span>
+            <strong>Node</strong>
+        </span>
+    </td>
+    <td>
+        <span style="display:flex;align-items:center;">
+            <img src="assets/languages/mongodb-icon.svg" />
+            <strong>MongoDB</strong>
+        </span>
+    </td>
+</tr>
+<tr>
+    <td>
+        <span style="display:flex;align-items:center;">
+            <img src="assets/languages/postgresql-icon.svg" />
+            <span style="white-space: pre"> </span>
+            <strong>PostgreSQL</strong>
+        </span>
+    </td>
+</tr>
+</table>
 
 <br />
 
