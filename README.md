@@ -9,7 +9,7 @@ I'm currently a **Software Development Team Lead** at
 
 Here are some languages and libraries that I like to work with:
 
-<table style="width:60%;">
+<table style="width:60%;border:none;">
 <tr>
     <td>
         <span style="display:flex;align-items:center;">
