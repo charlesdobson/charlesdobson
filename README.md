@@ -11,7 +11,7 @@ Here are some languages and libraries that I like to work with:
 
 <table style="width:60%;border:none;">
 <tr>
-    <td>
+    <td style="border:none;">
         <span style="display:flex;align-items:center;">
             <img src="assets/languages/typescript-icon.svg" />
             <span style="white-space: pre"> </span>
