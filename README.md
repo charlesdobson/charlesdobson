@@ -91,8 +91,10 @@ Here are some languages and libraries that I like to work with:
 
 Feel free to reach me at any of my social links:
 
-<div style="margin-left:4em;width:30%;display:flex;justify-content:space-between;">
+<div style="margin-left:4em;">
     <a href="https://www.linkedin.com/in/charlesdobson/"><img src="assets/social/linkedin.svg" /></a>
+    <span style="white-space: pre">   </span>
     <a href="https://twitter.com/CharlieDobson"><img src="assets/social/twitter.svg" /></a>
+    <span style="white-space: pre">   </span>
     <a href="https://stackoverflow.com/users/11122860/charlie-dobson"><img src="assets/social/stack-overflow.svg" /></a>
 </div>
