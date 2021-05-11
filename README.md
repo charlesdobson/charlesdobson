@@ -9,92 +9,25 @@ I'm currently a **Software Development Team Lead** at
 
 Here are some languages and libraries that I like to work with:
 
-<table style="width:60%;border:none;">
-<tr>
-    <td style="border:none;">
-        <span style="display:flex;align-items:center;">
-            <img src="assets/languages/typescript-icon.svg" />
-            <span style="white-space: pre"> </span>
-            <strong>TypeScript</strong>
-        </span>
-    </td>
-    <td>
-        <span style="display:flex;align-items:center;">
-            <img src="assets/languages/react-icon.svg" />
-            <span style="white-space: pre"> </span>
-            <strong>React</strong>
-        </span>
-    </td>
-</tr>
-<tr>
-    <td>
-        <span style="display:flex;align-items:center;">
-            <img src="assets/languages/jest-icon.svg" />
-            <span style="white-space: pre"> </span>
-            <strong>Jest</strong>
-        </span>
-    </td>
-    <td>
-        <span style="display:flex;align-items:center;">
-            <img
-            height="18"
-            width="18"
-            alt="octopus"
-            src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png"
-            />
-            <span style="white-space: pre"> </span>
-            <strong>Testing Library</strong>
-        </span>
-    </td>
-</tr>
-<tr>
-    <td>
-        <span style="display:flex;align-items:center;">
-            <img src="assets/languages/graphql-icon.svg" />
-            <span style="white-space: pre"> </span>
-            <strong>GraphQL</strong>
-        </span>
-    </td>
-    <td>
-        <span>
-            <strong>Express</strong>
-        </span>
-    </td>
-</tr>
-<tr>
-    <td>
-        <span style="display:flex;align-items:center;">
-            <img src="assets/languages/node-icon.svg" />
-            <span style="white-space: pre"> </span>
-            <strong>Node</strong>
-        </span>
-    </td>
-    <td>
-        <span style="display:flex;align-items:center;">
-            <img src="assets/languages/mongodb-icon.svg" />
-            <strong>MongoDB</strong>
-        </span>
-    </td>
-</tr>
-<tr>
-    <td>
-        <span style="display:flex;align-items:center;">
-            <img src="assets/languages/postgresql-icon.svg" />
-            <span style="white-space: pre"> </span>
-            <strong>PostgreSQL</strong>
-        </span>
-    </td>
-</tr>
-</table>
+<br />
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)](https://jestjs.io/)
+[![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing%20library&logoColor=white)](https://testing-library.com/docs/react-testing-library/intro/)
+
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/1)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 <br />
 
 Feel free to reach me at any of my social links:
 
-<div style="margin-left:4em;">
-    <a href="https://www.linkedin.com/in/charlesdobson/"><img src="assets/social/linkedin.svg" /></a>
-    <span style="white-space: pre">   </span>
-    <a href="https://twitter.com/CharlieDobson"><img src="assets/social/twitter.svg" /></a>
-    <span style="white-space: pre">   </span>
-    <a href="https://stackoverflow.com/users/11122860/charlie-dobson"><img src="assets/social/stack-overflow.svg" /></a>
-</div>
+<br />
+
+[![Linkedin](https://img.shields.io/badge/?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlesdobson/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CharlieDobson)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11122860/charlie-dobson)
