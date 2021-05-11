@@ -41,6 +41,8 @@ Here are some languages and frameworks that I like to work with:
 
 <br />
 
+---
+
 I'm always happy to chat and collaborate. Feel free to reach me at any of my social links:
 
 <p align="center">
