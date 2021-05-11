@@ -9,8 +9,6 @@ I'm currently a **Software Development Team Lead** at
 
 Here are some languages and libraries that I like to work with:
 
-<br />
-
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)](https://jestjs.io/)
@@ -25,8 +23,6 @@ Here are some languages and libraries that I like to work with:
 <br />
 
 Feel free to reach me at any of my social links:
-
-<br />
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlesdobson/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CharlieDobson)
