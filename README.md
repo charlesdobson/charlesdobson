@@ -38,27 +38,3 @@ Here are some languages and frameworks that I like to work with:
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)](https://reactjs.org/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/)
-
-<br />
-
----
-
-I'm always happy to chat and collaborate. Feel free to reach me at any of my social links:
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/charlesdobson/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/CharlieDobson">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/11122860/charlie-dobson">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:charlesdobson92@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://open.spotify.com/user/charles-dobson?si=39077ee3e6c74359">
-        <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
