@@ -1,40 +1,50 @@
 ## Hi, I'm Charlie! 👋
 
-<br />
-
 I'm currently a **Software Development Team Lead** at
 <a href="https://www.mappedin.com/">Mappedin</a> in Waterloo, Ontario, where I'm leading a team building out an awesome full-stack application.
 
-<br />
+---
 
 Here are some languages and frameworks that I like to work with:
 
-### Frontend
+![frontend](https://img.shields.io/static/v1?label=&message=frontend:&color=444&style=flat-square)
+[![TypeScript](https://img.shields.io/badge/TypeScript-222?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-222?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![styled-components](https://img.shields.io/badge/styled--components-222?style=flat-square&logo=styled-components&logoColor=DB7093)](https://styled-components.com/)
+[![Mobx-State-Tree](https://img.shields.io/badge/MobX--State--Tree-222?style=flat-square&logo=Mobx-State-Tree&logoColor=FF7102)](https://mobx-state-tree.js.org/intro/welcome)
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://styled-components.com/)
-[![Mobx-State-Tree](https://img.shields.io/badge/MobX--State--Tree-FF7102?style=flat-square&logo=Mobx-State-Tree&logoColor=white)](https://mobx-state-tree.js.org/intro/welcome)
+![backend](https://img.shields.io/static/v1?label=&message=backend:&color=444&style=flat-square)
+[![Node.=JS](https://img.shields.io/badge/Node.JS-222?style=flat-square&logo=node-dot-js&logoColor=339933)](https://nodejs.org/en/)
+[![Express](https://img.shields.io/badge/Express.JS-222?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-222?style=flat-square&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/1)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222?style=flat-square&logo=postgresql&logoColor=336791)](https://www.postgresql.org/)
 
-### Testing
+![testing](https://img.shields.io/static/v1?label=&message=testing:&color=444&style=flat-square)
+[![Jest](https://img.shields.io/badge/Jest-222?style=flat-square&logo=jest&logoColor=C21325)](https://jestjs.io/)
+[![Testing Library](https://img.shields.io/badge/Testing%20Library-222?style=flat-square&logo=testing%20library&logoColor=E33332)](https://testing-library.com/docs/react-testing-library/intro/)
+[![Cypress](https://img.shields.io/badge/Cypress-222?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/)
 
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest)](https://jestjs.io/)
-[![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testing%20library&logoColor=white)](https://testing-library.com/docs/react-testing-library/intro/)
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/)
+![api](https://img.shields.io/static/v1?label=&message=api:&color=444&style=flat-square)
+[![GraphQL](https://img.shields.io/badge/GraphQL-222?style=flat-square&logo=graphql&logoColor=E10098)](https://graphql.org/)
+[![Postman](https://img.shields.io/badge/Postman-222?style=flat-square&logo=Postman&logoColor=FF6C37)](https://www.postman.com/)
 
-### API
+![design](https://img.shields.io/static/v1?label=&message=design:&color=444&style=flat-square)
+[![Figma](https://img.shields.io/badge/Figma-222?style=flat-square&logo=Figma&logoColor=F24E1E)](https://reactjs.org/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-222?style=flat-square&logo=dribbble&logoColor=EA4C89)](https://dribbble.com/)
 
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/)
+---
 
-### Backend
+Feel free to connect:
 
-[![Node.=JS](https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Express](https://img.shields.io/badge/Express.JS-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/1)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-### Design
-
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)](https://reactjs.org/)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/)
+<a href="https://www.linkedin.com/in/charlesdobson/">
+  <img align="left" alt="Charlie's Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/CharlieDobson/">
+  <img align="left" alt="Charlie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:charlesdobson92@gmail.com">
+  <img align="left" alt="Charlie's Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://medium.com/@charlesdobson/">
+  <img align="left" alt="Charlie's Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
