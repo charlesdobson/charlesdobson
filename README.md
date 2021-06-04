@@ -29,7 +29,7 @@ Here are some languages and frameworks that I like to work with:
 [![Postman](https://img.shields.io/badge/Postman-222?style=flat-square&logo=Postman&logoColor=FF6C37)](https://www.postman.com/)
 
 ![design](https://img.shields.io/static/v1?label=&message=design:&color=444&style=flat-square)
-[![Figma](https://img.shields.io/badge/Figma-222?style=flat-square&logo=Figma&logoColor=F24E1E)](https://reactjs.org/)
+[![Figma](https://img.shields.io/badge/Figma-222?style=flat-square&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-222?style=flat-square&logo=dribbble&logoColor=EA4C89)](https://dribbble.com/)
 
 ---
