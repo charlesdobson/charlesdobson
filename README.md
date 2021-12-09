@@ -1,7 +1,7 @@
 ## Hi, I'm Charlie! 👋
 
-I'm currently a **Software Development Team Lead** at
-<a href="https://www.mappedin.com/">Mappedin</a> in Waterloo, Ontario, where I'm leading a team building out an awesome full-stack application.
+I'm currently a **Senior Software Developer** at
+<a href="https://www.shopify.com/">Shopify</a>.
 
 ---
 
