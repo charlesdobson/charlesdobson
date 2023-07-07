@@ -1,6 +1,6 @@
 ## Hi, I'm Charlie! 👋
 
-I'm currently a **Senior Software Developer** at
+I'm currently a **Staff Developer** at
 <a href="https://www.shopify.com/">Shopify</a>.
 
 Feel free to connect:
