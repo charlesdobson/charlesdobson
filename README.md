@@ -1,6 +1,6 @@
 ## Hi, I'm Charlie! 👋
 
-I'm currently a **Staff Developer** at
+I'm currently a **Staff Engineer** at
 <a href="https://www.shopify.com/">Shopify</a>.
 
 Feel free to connect:
@@ -9,7 +9,7 @@ Feel free to connect:
   <img align="left" alt="Charlie's Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/CharlieDobson/">
-  <img align="left" alt="Charlie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Charlie's X" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:charlesdobson92@gmail.com">
   <img align="left" alt="Charlie's Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
